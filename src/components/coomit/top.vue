@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>这是头部</div>
-    <slot :data="data"></slot>
+    <slot ></slot>
   </div>
 </template>
 <script>
